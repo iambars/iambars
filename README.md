@@ -7,7 +7,7 @@ Hi! I’m John Bars, a web developer from the Philippines focused on building mo
 ## 📄 Resume
 
 - **Web version:** https://iambars.vercel.app/resume  
-- **PDF version:** [Download PDF](./assets/John_Bars_Quipia_Resume.pdf)
+- **PDF version:** [Download PDF](https://drive.google.com/file/d/19uYfeW5H3SdvkyYUDoCWR0UEtruPMwyg/view?usp=sharing)
 
 ---
 
@@ -34,6 +34,8 @@ Hi! I’m John Bars, a web developer from the Philippines focused on building mo
 - Python
 - OAuth authentication
 - AI API integration
+- Data Analytics
+- Power BI
 
 ---
 
